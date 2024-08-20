@@ -1,20 +1,3 @@
-<style>
-
-    h1 {
-        text-align: center;
-        color: #16a085;
-        font-size: 30px;
-     }
-
-     h2{
-        color: #58d68d;
-     }
- 
-
-</style>
-
-
-
 # Ederson de Oliveira Martins
 
 Olá, sou formado em Engenharia Elétrica a mais de 5 anos, trabalho atualmente como prestador de serviços, estou iniciando a minha transição de carreira.
